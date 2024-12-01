@@ -24,7 +24,7 @@ Women in India face various safety challenges while traveling in public spaces. 
 ---
 
 ## System Architecture
-![System Architecture](images/6.jpg)
+![System Architecture](images/5.jpg)
 
 1. **AR Road Safety View**: Highlights safe and unsafe zones visually.
 2. **Geospatial Navigation**: Tracks user location with high accuracy.
